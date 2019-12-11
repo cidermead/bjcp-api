@@ -1,0 +1,10 @@
+database:
+#  driver: "postgres"
+  dbname: "bjcp_table_dev"
+  username: "dev_judge"
+  password: "beerJudging"
+#  host: "localhost"
+#  port: "5432"
+
+#server:
+#  port: "8081"
