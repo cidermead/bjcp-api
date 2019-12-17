@@ -37,3 +37,6 @@ config.yml
 
 ## JetBrain packages ##
 .idea
+
+## Build ##
+bjcp-api
