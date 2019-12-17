@@ -30,6 +30,10 @@ func InitDB() *gorm.DB {
 	host := config.Database.Host
 	port := os.Getenv("DB_PORT")
 
+  fmt.Println("ENV")
+  fmt.Println(database)
+  fmt.Println(password)
+
 	if driver == "postgres" {
 
 		db, err = gorm.Open("postgres", "host="+host+" port="+port+" user="+username+" dbname="+database+"  sslmode=disable password="+password)

@@ -33,6 +33,7 @@
 
 ## ENVIRONMENT FILE ##
 .env
+config.yml
 
 ## JetBrain packages ##
 .idea
