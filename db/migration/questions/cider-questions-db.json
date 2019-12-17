@@ -10053,8 +10053,857 @@
     "exam": "cider",
     "active": true,
     "deleted":  false
+  },
+
+  { "placeholder":  "////////////////////////////////////////////////////////"},
+
+  {
+    "question": "Which term can be described as the lingering taste on the palate, usually noticed in the back of the throat?",
+    "options": [
+      "aftertaste",
+      "bouquet",
+      "harsh",
+      "astringency"
+    ],
+    "answer": 0,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term can be described the following: lasts fairly long – the impression of great cider usually does not disappear after the swallow – and without harshness or detracting off-characters.",
+    "options": [
+      "bouquet",
+      "aftertaste",
+      "tannin",
+      "astringency"
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term can be described as the synonym for finish or length.",
+    "options": [
+      "bouquet",
+      "tannin",
+      "body",
+      "aftertaste",
+      "balance"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about “aftertaste”?",
+    "options": [
+      "Synonym for finish or length.",
+      "Without harshness or detracting off-characters.",
+      "Ideally lasts fairly long.",
+      "The impression of great cider usually does not disappear after the swallow.",
+      "Not a character but perhaps seen in the specialty information/description the entrant provides.",
+      "The lingering taste on the palate, usually noticed in the back of the throat."
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term can be described as drying sensation in the mouth, generally caused by apple or pear tannins, but may include contribution by spices, other fruits, or wood aging.",
+    "options": [
+      "hot",
+      "astringent",
+      "woody",
+      "aftertaste",
+      "harsh"
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term can be described as not itself a flaw and welcome at some level in every style.",
+    "options": [
+      "mousy",
+      "astringent",
+      "musty",
+      "ropy"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes the fault that can become a flaw in excess amounts that dominate the beverage or cause significant balance issues.",
+    "options": [
+      "solvent",
+      "mousy",
+      "ropy",
+      "astringent",
+      "cloying",
+      "musty"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about “astringent” cider?",
+    "options": [
+      "May include contribution by spices, other fruits, or wood aging.",
+      "Drying sensation in the mouth, generally caused by apple or pear tannins.",
+      "Can become a flaw in excess amounts that dominate the beverage or cause significant balance issues.",
+      "The often unstated companion phrase is that the cider may improve with time and overlap with “Harsh”.",
+      "Not itself a flaw and welcome at some level in every style."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term is more commonly used in describing wine, the term is a moderately-restrained negative descriptor.",
+    "options": [
+      "corky",
+      "petillant",
+      "young",
+      "austere"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term generally indicates a dry cider with little to no fruit but with elevated tannin or especially acid levels.",
+    "options": [
+      "flat",
+      "austere",
+      "petillant",
+      "young"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term is slightly different from “angular” which would more specifically indicate excessive acidity, but not necessarily lacking fruit or sweetness.",
+    "options": [
+      "austere",
+      "flat",
+      "chaptalized",
+      "young",
+      "dry"
+    ],
+    "answer": 0,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about “austere” cider?",
+    "options": [
+      "More commonly used in describing wine, the term is a moderately-restrained negative descriptor.",
+      "Generally indicates a dry cider with little to no fruit but with elevated tannin or especially acid levels.",
+      "Can also occur if cider is pasteurized in the bottle.",
+      "Slightly different from “angular” which would more specifically indicate excessive acidity, but not necessarily lacking fruit or sweetness.",
+      "May improve with aging."
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes when components (sweetness, fruitiness, acidity, tannin, alcohol, carbonation, body) do not overwhelms the others.",
+    "options": [
+      "complex",
+      "aged",
+      "chaptalized",
+      "clean",
+      "balanced"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the “balance”?",
+    "options": [
+      "Each cider style will have its own balance.",
+      "Balanced does not mean that all components are “equal”.",
+      "Among styles every level of sweetness may require re-balancing the other components.",
+      "Can also be achieved if cider is pasteurized in the bottle.",
+      "No component of balance (sweetness, fruitiness, acidity, tannin, alcohol, carbonation, body) overwhelms the others."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes the following: Not a character you can taste, unless we’re referring to its effect of raising alcohol.",
+    "options": [
+      "keeved",
+      "aged",
+      "chaptalized",
+      "clean",
+      "balanced"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes the following: Commonly done with Applewine, sometimes other styles if the juice sugar level is particularly low that season.",
+    "options": [
+      "keeved",
+      "balanced",
+      "clean",
+      "chaptalized",
+      "complex"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the “chaptalization”?",
+    "options": [
+      "Commonly done with Applewine, sometimes other styles if the juice sugar level is particularly low that season.",
+      "Entries in C1 Standard Cider and Perry should be chaptalized only with white sugar and should not have an adjunct character.",
+      "This is when simple sugars have been added to juice to raise its gravity.",
+      "May be indicated in Specialty Information by the entrant.",
+      "English Cider can be chaptalized only with brown sugar or molasses.",
+      "Not a character you can taste, unless we’re referring to its effect of raising alcohol."
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the “chaptalization”?",
+    "options": [
+      "May be indicated in Specialty Information by the entrant.",
+      "Commonly done with Applewine, sometimes other styles if the juice sugar level is particularly low that season.",
+      "Not a particularly positive descriptor, but common with very simple cider from store-bought mass-produced juice or concentrate, and does not necessarily indicate there are any flaws.",
+      "Entries in C1 Standard Cider and Perry should be chaptalized only with white sugar and should not have an adjunct character.",
+      "Not a character you can taste, unless we’re referring to its effect of raising alcohol.",
+      "This is when simple sugars have been added to juice to raise its gravity."
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes “no off aromas or flavors are present”, “purity of fruit” and “lack of yeast-derived aromatics”.",
+    "options": [
+      "austere",
+      "dry",
+      "petillant",
+      "young",
+      "clean"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement does not describe the term “clean” the best?",
+    "options": [
+      "Purity of fruit.",
+      "A sensation that indicates a lack of residual sugar.",
+      "Lack of yeast-derived aromatics.",
+      "No off aromas or flavors are present."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes the positive impression that is not one-note, not insipid, and not boring, but not muddled or cluttered either.",
+    "options": [
+      "balanced",
+      "carbonated",
+      "keeved",
+      "chaptalized",
+      "complex"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes cider as multi-dimensional but harmonious.",
+    "options": [
+      "keeved",
+      "complex",
+      "carbonated",
+      "balanced",
+      "chaptalized"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “complex”?",
+    "options": [
+      "A positive impression that is not one-note and not insipid.",
+      "A positive impression that not boring and but not muddled or cluttered either.",
+      "Multi-dimensional but harmonious.",
+      "None of the above"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “complex”?",
+    "options": [
+      "A positive impression that is not one-note and not insipid.",
+      "Means these components are “equal” and appear well pronounced.",
+      "A positive impression that not boring and but not muddled or cluttered either.",
+      "Multi-dimensional but harmonious."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes the kind of character one gets if one boils apple juice or uses a lot of concentrate.",
+    "options": [
+      "keeved",
+      "carbonated",
+      "balanced",
+      "cooked",
+      "woody"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term is not a particularly positive descriptor, but common with very simple cider from store-bought mass-produced juice or concentrate, and does not necessarily indicate there are any flaws.",
+    "options": [
+      "keeved",
+      "carbonated",
+      "balanced",
+      "woody",
+      "cooked"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term sometimes interpreted as a richer, warmer and more inviting apple character.",
+    "options": [
+      "cooked",
+      "keeved",
+      "carbonated",
+      "balanced",
+      "woody"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “cooked”?",
+    "options": [
+      "Sometimes interpreted as a richer, warmer and more inviting cooked apple character.",
+      "May include an astringent character, and other widely varying flavor and aromas depending on toast level.",
+      "The kind of character one gets if one boils apple juice or uses a lot of concentrate.",
+      "Generally refers to the type of apple character noticed.",
+      "Not a particularly positive descriptor, but common with very simple cider from store-bought mass-produced juice or concentrate, and does not necessarily indicate there are any flaws.",
+      "Can also occur if cider is pasteurized in the bottle. There is usually little nuance or complexity."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term represents sensation on the tongue that indicates a lack of residual sugar.",
+    "options": [
+      "petillant",
+      "watery",
+      "dry",
+      "balanced",
+      "woody"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “dry”?",
+    "options": [
+      "A sensation on the tongue that indicates a lack of residual sugar.",
+      "Dryness varies from bone-dry to dry, off-dry, and semi-dry.",
+      "In wine and sometimes in cider a descriptor of dry may include drying sensation from tannins.",
+      "Can become a flaw in excess levels that dominate the beverage or cause significant balance issues."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term represents a rough, unpleasant flavor and finish, that may give a biting or stinging sensation in the mouth, often from excessive bitterness, alcohol, or tannins.",
+    "options": [
+      "petillant",
+      "watery",
+      "dry",
+      "woody",
+      "harsh"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “harsh”?",
+    "options": [
+      "Often from excessive bitterness, alcohol, or tannins.",
+      "May give a biting or stinging sensation in the mouth.",
+      "May be indicated in “Specialty Information” by the entrant.",
+      "Rough, unpleasant flavor and finish."
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term generally indicates excessive alcohol content for balance or in high gravity ciders a young, not yet mature beverage?",
+    "options": [
+      "petillant",
+      "watery",
+      "dry",
+      "hot",
+      "harsh"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term occasionally used to describe solvent/higher alcohol character indicating more of the wrong kind of alcohol rather than amount?",
+    "options": [
+      "hot",
+      "petillant",
+      "watery",
+      "dry",
+      "harsh"
+    ],
+    "answer": 0,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term judges should note the type of that they are experiencing?",
+    "options": [
+      "petillant",
+      "watery",
+      "hot",
+      "harsh"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “hot”?",
+    "options": [
+      "The lingering taste on the palate, usually noticed in the back of the throat.",
+      "Judges should note the type of hot that they are experiencing.",
+      "Generally indicates excessive alcohol content for balance or in high gravity ciders a young, not yet mature beverage.",
+      "Occasionally used to describe solvent/higher alcohol character indicating more of the wrong kind of alcohol rather than amount."
+    ],
+    "answer": 0,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “hot”?",
+    "options": [
+      "Generally indicates excessive alcohol content for balance or in high gravity ciders a young, not yet mature beverage.",
+      "Occasionally used to describe solvent/higher alcohol character indicating more of the wrong kind of alcohol rather than amount.",
+      "Sometimes interpreted as a richer, warmer and more inviting cooked apple character.",
+      "Judges should note the type of hot that they are experiencing."
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term indicates the yeast was intentionally starved by removing nutrients from the juice prior to fermentation?",
+    "options": [
+      "cooked",
+      "keeved",
+      "austere",
+      "chaptalized",
+      "young"
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term indicates the process that was followed by a long slow fermentation that ended with significant residual sugar remaining in the cider?",
+    "options": [
+      "young",
+      "chaptalized",
+      "keeved",
+      "austere",
+      "macerated",
+      "cooked"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term not a character but perhaps seen in the specialty information/description the entrant provides?",
+    "options": [
+      "hot",
+      "young",
+      "austere",
+      "astringent",
+      "keeved"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “keeved”?",
+    "options": [
+      "Not a character but perhaps seen in the specialty information/description the entrant provides.",
+      "Commonly done with Applewine, sometimes other styles if the juice sugar level is particularly low that season.",
+      "Indicates the yeast was intentionally starved by removing nutrients from the juice prior to fermentation.",
+      "Followed by a long slow fermentation that ended with significant residual sugar remaining in the cider."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term describes a moderately low level of carbonation, clearly not still, and not highly carbonated?",
+    "options": [
+      "dry",
+      "flat",
+      "young",
+      "austere",
+      "astringent",
+      "petillant"
+    ],
+    "answer": 5,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term can alter the impression if judging at significant altitude?",
+    "options": [
+      "dry",
+      "balanced",
+      "petillant",
+      "astringent",
+      "austere",
+      "hot"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “petillant”?",
+    "options": [
+      "A moderately low level of carbonation, clearly not still, and not highly carbonated.",
+      "There is defined volume of carbonation corresponding to where petillant ends and where sparkling begins, usually between 0.5 and 1.5 volumes.",
+      "Judges should focus on whether balance of a cider or perry would be improved with greater or less carbonation.",
+      "Judging at significant altitude may alter impression of carbonation",
+      "Only focus on the declared carbonation level if differing significantly from that in the glass."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “petillant”?",
+    "options": [
+      "Judging at significant altitude may alter impression of carbonation",
+      "A moderately low level of carbonation, clearly not still, and not highly carbonated.",
+      "Judges should focus on whether balance of a cider or perry would be improved with greater or less carbonation.",
+      "Sometimes used when experiencing bigger versions of styles like New World Cider or Applewine without a lot of structure or elevated apple character.",
+      "There is no defined volume of carbonation corresponding to where petillant ends and where sparkling begins."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term sometimes used when experiencing dry versions of styles like New World Cider or Applewine without a lot of structure or elevated apple character?",
+    "options": [
+      "dry",
+      "balanced",
+      "petillant",
+      "watery",
+      "austere"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is true about the term “watery”?",
+    "options": [
+      "Generally indicates a dry cider with little to no fruit but with elevated tannin or especially acid levels",
+      "A sensation on the tongue that indicates a lack of residual sugar.",
+      "Generally unbalanced, rough cider that has not yet matured.",
+      "Sometimes used when experiencing dry versions of styles like New World Cider or Applewine without a lot of structure or elevated apple character."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term may include an astringent character, and other widely varying flavor and aromas?",
+    "options": [
+      "dry",
+      "astringent",
+      "earthy",
+      "harsh",
+      "woody"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "With high-gravity cider that has been aged, oxidation can take on a character reminiscent of which term?",
+    "options": [
+      "astringent",
+      "dry",
+      "woody",
+      "harsh",
+      "cooked",
+      "keeved"
+    ],
+    "answer": 2,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Judges will have to use their best judgement as to whether the character and level of which term is appropriate?",
+    "options": [
+      "ropy",
+      "mousy",
+      "harsh",
+      "keeved",
+      "woody"
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “woody”?",
+    "options": [
+      "Generally used to describe cider that has aged significantly in an oak cask or with chips/chunks/spirals.",
+      "Can also occur if cider is pasteurized in the bottle.",
+      "Judges will have to use their best judgement as to whether the character and level of this is appropriate.",
+      "With high-gravity cider that has been aged, oxidation can take on a character reminiscent of wood.",
+      "At best it is likely only acceptable in C2F Specialty Cider.",
+      "May include an astringent character, and other widely varying flavor and aromas depending on toast level of the wood in question."
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “woody”?",
+    "options": [
+      "At best it is likely only acceptable in C2F Specialty Cider.",
+      "Judges will have to use their best judgement as to whether the character and level of this is appropriate.",
+      "With high-gravity cider that has been aged, oxidation can take on a character reminiscent of wood.",
+      "Generally used to describe cider that has aged significantly in an oak cask or with chips/chunks/spirals.",
+      "Also note judging at significant altitude may alter impression of it.",
+      "May include an astringent character, and other widely varying flavor and aromas depending on toast level of the wood in question."
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term calls generally unbalanced, rough cider that has not yet matured.",
+    "options": [
+      "hot",
+      "austere",
+      "harsh",
+      "young",
+      "farmhouse"
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which term may indicate that fruit characters may be indistinct or muddled, or in the case of recent backsweetening with juice seem raw and unfermented.",
+    "options": [
+      "hot",
+      "young",
+      "austere",
+      "cooked",
+      "petillant"
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “young”?",
+    "options": [
+      "Generally unbalanced, rough cider that has not yet matured.",
+      "Many characters overlap with “Harsh”.",
+      "The often unstated companion phrase is that the cider may improve with time.",
+      "Sometimes used when experiencing dry versions of styles like New World Cider or Applewine."
+    ],
+    "answer": 3,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “young”?",
+    "options": [
+      "Fruit characters may be indistinct or muddled, or in the case of recent backsweetening with juice seem raw and unfermented.",
+      "The lingering taste on the palate, usually noticed in the back of the throat.",
+      "This descriptor can come off as presumptive, however there is nothing wrong with telling an entrant that the cider presents as young.",
+      "Alcohol may seem higher than it truly is, especially with bigger styles"
+    ],
+    "answer": 1,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which statement is not true about the term “young”?",
+    "options": [
+      "The often unstated companion phrase is that the cider may improve with time.",
+      "Generally unbalanced, rough cider that has not yet matured.",
+      "This descriptor can come off as presumptive, however there is nothing wrong with telling an entrant that the cider presents as young.",
+      "Alcohol may seem higher than it truly is, especially with bigger styles.",
+      "All statements are true."
+    ],
+    "answer": 4,
+    "topic": "terminology",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
   }
 ]
-
-
-
