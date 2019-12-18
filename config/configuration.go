@@ -16,9 +16,11 @@ func InitConfig() Configuration {
 
 	viper.SetConfigName("config")
 	viper.SetConfigType("yaml")
-	viper.AddConfigPath(".")
+	viper.AddConfigPath("$GOPATH/src/github.com/cidermead/bjcp-api")
+  viper.AddConfigPath(".")
 
-	if err := viper.ReadInConfig(); err != nil {
+
+  if err := viper.ReadInConfig(); err != nil {
 		log.Fatalf("Error reading config file, %s", err)
 	}
 
