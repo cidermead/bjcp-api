@@ -10902,5 +10902,71 @@
     "exam": "cider",
     "active": true,
     "deleted":  false
+  },
+
+
+  {
+    "question": "Malolactic Fermentation (MLF) is the conversion of one molecule of malic acid (C4H6O5) into one molecule of lactic acid (C3H6O3) plus one molecule of carbon dioxide (CO2)",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Malolactic Fermentation (MLF) is the conversion of one molecule of simple sugar into malic and lactic acid plus one molecule of carbon dioxide (CO2)",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "Which one is not true about Malolactic Fermentation (MLF)?",
+    "options": [
+      "MLF slightly increases carbonation.",
+      "MLF alters the balance of the cider by reducing acidity.",
+      "MLF removes nutrients.",
+      "MLF is a side effect of keeving process.",
+      "MLF may present significant flavor and aroma changes."
+    ],
+    "answer": 3,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Malolactic Fermentation (MLF) slightly increases carbonation and alters the balance of the cider by reducing acidity.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Malolactic Fermentation (MLF) significantly increases carbonation and alters the balance of the cider by increasing acidity.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
   }
 ]
