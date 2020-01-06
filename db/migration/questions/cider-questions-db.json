@@ -1289,7 +1289,7 @@
     "deleted":  false
   },
   {
-    "question": "Défécation is a French technique of slow or arrested fermentation.",
+    "question": "Slow or arrested fermentation can be used as part of a French technique of Défécation.",
     "options": [
       "true",
       "false"
@@ -10449,7 +10449,7 @@
       "balanced",
       "woody"
     ],
-    "answer": 4,
+    "answer": 0,
     "topic": "terminology",
     "exam": "cider",
     "active": true,
@@ -10959,6 +10959,167 @@
   },
   {
     "question": "Malolactic Fermentation (MLF) significantly increases carbonation and alters the balance of the cider by increasing acidity.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "MLF is not performed by the beer or wine yeasts pitched to make cider or by wild yeasts already present in the fruit, but rather by Lactic Acid Bacteria (LAB).",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "MLF is performed by the beer yeasts pitched to cider after fermentation is complete.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "The three main classes of Lactic Acid Bacteria (LAB) that perform MLF are Pediococcus, Oenococcus, and Lactobacillus.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "The three main classes of Lactic Acid Bacteria (LAB) that perform MLF are Debaryomyces, Brettanomyces, and Torulaspora delbrueckii.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Which of the four classes of Lactic Acid Bacteria (LAB) does not perform MLF?",
+    "options": [
+      "Pediococcus",
+      "Oenococcus",
+      "Debaryomyces",
+      "Lactobacillus"
+    ],
+    "answer": 2,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Lactobacillus has several species common in cider and is what creates the phenolics associated with the BJCP English Cider style and to a lesser extent French Cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Brettanomyces has several species common in cider and is what creates the phenolics associated with the BJCP English Cider style and to a lesser extent French Cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "Lactic acid bacteria are inhibited by high alcohol, low pH, low temperature, lack of nutrients, high relevant acid concentrations, and presence of bound and especially free sulfites.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Lactic acid bacteria are inhibited by low alcohol, high pH, high temperature, over-usage of nutrients, and presence of bound and especially free sulfites.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Temperature of 60 °F (15 °C) is low enough to keep most strains from starting, though it will often continue at this temperature if it has already begun.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Temperature of 65 °F (17 °C) is high enough to keep most strains from starting.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "Lactic Acid Bacteria like the 60 – 75 °F (15 – 24 °C) temperature range, with some variation between individual strains.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Lactic Acid Bacteria like the 50 – 60 °F (10 – 15 °C) temperature range, with some variation between individual strains.",
     "options": [
       "true",
       "false"
