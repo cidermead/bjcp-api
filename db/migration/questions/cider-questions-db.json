@@ -11119,12 +11119,629 @@
     "deleted":  false
   },
   {
-    "question": "Lactic Acid Bacteria like the 50 – 60 °F (10 – 15 °C) temperature range, with some variation between individual strains.",
+    "question": "Lactic Acid Bacteria like the 50 – 60 °F (10 – 15 °C) temperature range, with some slight variation between individual strains.",
     "options": [
       "true",
       "false"
     ],
     "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "Generally pH below 3.2 will keep MLF from beginning, and many strains are at least somewhat inhibited below 3.5.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Generally pH below 4.0 will keep MLF from beginning, and many strains are at least somewhat inhibited below 4.2.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Generally pH above 4.0 will keep MLF from beginning, and many strains are at least somewhat inhibited above 3.5.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "The following Lactic Acid Bacteria (LAB) is known to produce smoky phenolic character in a cider.",
+    "options": [
+      "Pediococcus",
+      "Oenococcus",
+      "Lactobacillus",
+
+    ],
+    "answer": 2,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Oenococcus generally works at lower pH than Lactobacillus and Pediococcus, reducing acidity without added phenolic characters.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Oenococcus generally works at higher pH than Lactobacillus and Pediococcus, reducing acidity and adding phenolic characters.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+
+  {
+    "question": "Lactic Acid Bacteria (LAB) can also metabolize sugars as yeast do, creating things like acetic acid that cidermakers want to avoid in the finished product.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Lactic Acid Bacteria (LAB) does not metabolize sugars as yeast do, creating things like linoleic acid.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Extremely high levels of malic acid can create an environment that inhibits Lactic Acid Bacteria (LAB), while high levels of lactic acid may kill LAB.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Extremely high levels of lactic acid can create an environment that inhibits Lactic Acid Bacteria (LAB), while high levels of malic acid may kill LAB.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Complete reduction of malic acid (during MLF) will reduce the acidity by half if no other acids are present.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Complete reduction of malic acid (during MLF) will reduce the acidity by 15% if no other acids are present.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Cidermakers strive to keep pH low enough (<3.8) to help protect the cider from microbial contamination and may monitor the increase.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Cider with lactic acid often seems smoother, less metallic, and more approachable then with malic acid.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Cider with malic acid often seems smoother, less metallic, and more approachable then with lactic acid.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Cider that has experienced MLF would have lower amounts of overt apple and perhaps a more nuanced fruit character.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pronounced barnyard funk aroma without the spicy and smoky phenolics generally indicates a Brett infection.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pronounced barnyard funk aroma without the spicy and smoky phenolics generally indicates a Oenococcus oeni infection.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": " Spicy, smoky, restrained barnyard aromas/flavors are the result of the LAB breaking down phenolic acids in the apple juice.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": " Spicy, smoky, restrained barnyard aromas/flavors are the result of the LAB breaking down tannins in the apple cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Spicy, smoky, restrained barnyard phenolics are NOT associated with the Oenococcus oeni strains that winemakers are pitching to finish their red wines.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Spicy, smoky, restrained barnyard phenolics are associated with the Oenococcus oeni strains that winemakers are pitching to finish their red wines.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Dessert apples can have high levels of phenolic acids and very low tannin levels, i.e., one does not need a tannic cider to be able to perform phenolic MLF.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Diacetyl is acceptable in cider as long as it complements the finished product, especially New World Cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "A small amount of butter isn’t a reason to disqualify a cider from medal contention, but diacetyl should never be a dominant character.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "A small amount of butter can be a reason to disqualify a cider from medal contention, even if diacetyl is not a dominant character.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "A small amount of butter can be a reason to disqualify a cider from medal contention, even if diacetyl is not a dominant character.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Despite the increase in pH during MLF may leave the cider prone to bacterial contamination, the process can still promote a stable cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In performing malolactic fermentation LAB are removing other nutrients from the cider, thus, those nutrients are not available for other spoilage microbes to consume.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In performing malolactic fermentation LAB are adding other nutrients to the cider, thus, those nutrients would be available for other spoilage microbes to consume.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "With appreciable residual sugar, fairly low acid, and low alcohol content, French Cider can be among the least stable ciders.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "With appreciable residual sugar, fairly low acid, and low alcohol content, French Cider can be among the most stable ciders.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "The keeving practice is more common in traditional styles, most specifically French Cider.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "The keeving practice is more common in traditional styles, most specifically German Cider or Apfelvein.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "At its core keeving is about removal of nutrients from apple or pear juice.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "At its core keeving is about doubling nutrients in apple or pear juice natural way.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In Keeving, the goal of the removal of nutrients is to starve the yeast before fermentation would normally end in dryness.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In Keeving, the goal of adding nutrients is to over-exhaust the yeast before fermentation would normally end in dryness.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Keeved cider differs from other methods primarily due to two processes except for:",
+    "options": [
+      "Enzymatic reduction of nutrients",
+      "Natural pH increase by producing a lactic acid",
+      "Repeated timely racking"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Removal of nutrients from apple/pear juice during keeving is done enzymatically with Pectin Methylesterase (PME).",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Removal of nutrients from apple/pear juice during keeving is done enzymatically with Pectic Enzyme (PE).",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pectin Methylesterase (PME) is not the same as the Pectic Enzyme (pectinase) often added to cider to promote clarity.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pectin Methylesterase (PME) is very similar to the Pectic Enzyme (pectinase) often added to cider to promote clarity.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Use of dessert fruit naturally high in nutrients is unlikely to result in a successful keeve.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Use of dessert fruit naturally high in nutrients is most likely to result in a successful keeve.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pectin Methylesterase (PME) works better at higher pH, may struggle to successfully keeve an extremely high acid, low pH must.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Pectin Methylesterase (PME) works better at lower pH, may struggle to successfully keeve a low acid, high pH must.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "Keeving is perfectly suited for the bittersweet apples heavily used in French-style ciders.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 0,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In addition to PME, a successful keeving requires the presence of Calcium.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In addition to PME, a successful keeving requires the presence of Magnesium.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 1,
+    "topic": "advanced",
+    "exam": "cider",
+    "active": true,
+    "deleted":  false
+  },
+  {
+    "question": "In addition to PME, a successful keeving requires the presence of Magnesium.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "answer": 10,
     "topic": "advanced",
     "exam": "cider",
     "active": true,

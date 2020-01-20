@@ -905,7 +905,7 @@
       "true",
       "false"
     ],
-    "answer": 1,
+    "answer": 0,
     "topic": "ethics",
     "exam": "beer",
     "active": true,
@@ -1433,7 +1433,7 @@
       "true",
       "false"
     ],
-    "answer": 0,
+    "answer": 1,
     "topic": "ethics",
     "exam": "beer",
     "active": true,
